@@ -1,0 +1,18 @@
+{
+  "name": "Figma Card Generator Plugin",
+  "id": "1319025137925653147",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://cdn.jsdelivr.net",
+      "https://rsms.me"
+    ]
+  }
+}
